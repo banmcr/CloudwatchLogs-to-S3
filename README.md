@@ -14,4 +14,4 @@ Set the below Enviroment variables :
 AWS_ACCOUNT  : SANDBOX
 
 S3_BUCKET : my_bucket
-``'
+```
